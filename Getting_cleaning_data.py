@@ -7,7 +7,6 @@ import xml.etree.ElementTree as et
 
 from urllib.request import urlopen
 
-
 # If the directory datasets doesn't exist, it will be created.
 if not os.path.exists("datasets"):
     os.makedirs("datasets")
