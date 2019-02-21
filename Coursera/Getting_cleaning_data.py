@@ -1,4 +1,4 @@
-# Getting and cleaning data - Coursera, University Johns Hopkins University
+# Getting and cleaning data - Coursera, Johns Hopkins University
 
 import os
 import pandas as pd
